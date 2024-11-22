@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div style="display: flex; flex-direction: column;">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nam3762" width="380" height="195">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nam3762" width="390" height="195">
 <img src="https://github-readme-stats.vercel.app/api?username=nam3762">
 </div>
