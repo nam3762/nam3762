@@ -1,4 +1,4 @@
-## 👋
+## Front-end Developer
 
 <!--
 **nam3762/nam3762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nam3762)](https://github.com/nam3762/github-readme-stats)
+
+<div style="display: flex; flex-direction: column;">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nam3762" width="400" height="195">
+<img src="https://github-readme-stats.vercel.app/api?username=nam3762">
+</div>
