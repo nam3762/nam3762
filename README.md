@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&duration=4000&pause=2000&color=1C92F2EB&width=435&lines=%3Cp%3E+Front-end+Developer+%3C%2Fp%3E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" style="pointer-events: none"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&duration=4000&pause=2000&color=1C92F2EB&width=435&lines=%3Cp%3E+Front-end+Developer+%3C%2Fp%3E" alt="Typing SVG" /></a>
 <!--
 **nam3762/nam3762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
